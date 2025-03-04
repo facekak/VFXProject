@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Tornado_Mat 2
+  m_Name: Lightning_Mat 1
   m_Shader: {fileID: -6465566751694194690, guid: 01031f38a15f0214ea0d676fa864bcb3, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -35,7 +35,6 @@ Material:
     RenderType: TransparentCutout
   disabledShaderPasses:
   - MOTIONVECTORS
-  - SHADOWCASTER
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -58,12 +57,12 @@ Material:
     - _AlphaToMask: 1
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
-    - _CastShadows: 0
+    - _CastShadows: 1
     - _Cull: 0
-    - _Dissolve: 0.067
+    - _Dissolve: 0.006
     - _DstBlend: 0
-    - _NoisePower: 1.74
-    - _NoiseScale: 6.4
+    - _NoisePower: 1.88
+    - _NoiseScale: 7.58
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -74,11 +73,9 @@ Material:
     - _ZTest: 4
     - _ZWrite: 1
     - _ZWriteControl: 0
-    - _metallic: 0
-    - _smoothness: 0.1
     m_Colors:
-    - _Color: {r: 1, g: 1, b: 1, a: 0.6156863}
-    - _NoiseSpeed: {r: 5.35, g: 2.85, b: 0, a: 0}
+    - _Color: {r: 174991.52, g: 174991.52, b: 174991.52, a: 0.6156863}
+    - _NoiseSpeed: {r: 1, g: 1, b: 0, a: 0}
     - _TwirlCenter: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _TwirlSpeed: {r: 0.51, g: 0.5, b: 0, a: 0}
   m_BuildTextureStacks: []
