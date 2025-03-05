@@ -65,7 +65,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     - _Scale: 136.25
-    - _Speed: 0.01
+    - _Speed: 0.02
     - _SrcBlend: 5
     - _Surface: 1
     - _ZTest: 4
