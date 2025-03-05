@@ -701,8 +701,8 @@
     "m_ObjectId": "00772b49e36348dbbe416f61283978ca",
     "m_Title": "Displacement",
     "m_Position": {
-        "x": -1503.199951171875,
-        "y": -979.2000122070313
+        "x": -1503.0,
+        "y": -978.0
     }
 }
 
@@ -1277,8 +1277,8 @@
     "m_ObjectId": "29b9143792b54c71b3e746506834b25e",
     "m_Title": "BaseTexture",
     "m_Position": {
-        "x": -2448.800048828125,
-        "y": 85.60003662109375
+        "x": -2448.0,
+        "y": 87.0
     }
 }
 
@@ -4034,7 +4034,7 @@
         "a": 0.0
     },
     "isMainColor": false,
-    "m_ColorMode": 0
+    "m_ColorMode": 1
 }
 
 {
@@ -5155,7 +5155,7 @@
         "a": 0.0
     },
     "isMainColor": false,
-    "m_ColorMode": 0
+    "m_ColorMode": 1
 }
 
 {
