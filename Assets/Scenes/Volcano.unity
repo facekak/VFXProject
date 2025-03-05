@@ -153,6 +153,7 @@ Transform:
   - {fileID: 1927924598}
   - {fileID: 1619738801}
   - {fileID: 49575685}
+  - {fileID: 2031897799}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &43851989
@@ -5644,8 +5645,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 211, y: 790, z: -10}
+  m_LocalRotation: {x: -0.0019042911, y: -0.6765268, z: -0.0019074525, w: 0.7364131}
+  m_LocalPosition: {x: 1643.932, y: 574.25903, z: 227.13293}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5786,13 +5787,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.92131776, y: 0.077745095, z: 0.24686638, w: -0.29014865}
+  m_LocalRotation: {x: 0.9627966, y: 0.13076931, z: 0.22335345, w: -0.07768743}
   m_LocalPosition: {x: -1524, y: 624, z: 355}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: -1225.0391, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: -1247.994, y: -24.766998, z: -12.824005}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27476,8 +27477,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2031897798}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -24.385149, y: 398.95743, z: 1907.0917}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -163.80019, y: 194.45943, z: 2073.7334}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -27486,7 +27487,7 @@ Transform:
   - {fileID: 1714064909}
   - {fileID: 1438974724}
   - {fileID: 1524824915}
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 23830369}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
@@ -27497,6 +27498,5 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 43851991}
   - {fileID: 745847934}
-  - {fileID: 2031897799}
   - {fileID: 23830369}
   - {fileID: 1975447283}
